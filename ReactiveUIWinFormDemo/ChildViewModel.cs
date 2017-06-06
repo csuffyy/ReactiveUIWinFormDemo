@@ -1,7 +1,7 @@
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
 
-namespace WindowsFormsApplication1
+namespace ReactiveUIWinFormDemo
 {
     public class ChildViewModel : ReactiveObject
     {

@@ -1,9 +1,8 @@
-﻿using System;
-using System.Reactive.Linq;
+﻿using System.Reactive.Linq;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
 
-namespace WindowsFormsApplication1
+namespace ReactiveUIWinFormDemo
 {
     public class ShellViewModel : ReactiveObject
     {

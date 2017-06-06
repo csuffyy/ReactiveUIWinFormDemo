@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
 using ReactiveUI;
 
-namespace WindowsFormsApplication1
+namespace ReactiveUIWinFormDemo
 {
     public partial class CustomControl : UserControl, IViewFor<ChildViewModel>
     {

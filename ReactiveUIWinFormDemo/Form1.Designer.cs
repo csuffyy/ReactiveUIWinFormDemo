@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace ReactiveUIWinFormDemo
 {
     partial class Form1
     {
@@ -32,7 +32,7 @@
             this.btnOK = new System.Windows.Forms.Button();
             this.statusTray = new System.Windows.Forms.StatusStrip();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.child = new WindowsFormsApplication1.CustomControl();
+            this.child = new CustomControl();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 

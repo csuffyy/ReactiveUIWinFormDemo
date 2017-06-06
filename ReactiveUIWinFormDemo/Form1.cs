@@ -1,7 +1,7 @@
-﻿using ReactiveUI;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
+using ReactiveUI;
 
-namespace WindowsFormsApplication1
+namespace ReactiveUIWinFormDemo
 {
     public partial class Form1 : Form, IViewFor<ShellViewModel>
     {
